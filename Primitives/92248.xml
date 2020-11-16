@@ -20,9 +20,9 @@
   <Connectivity>
     <Hinge type="221" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="0" ty="-0.450984" tz="-3.6E-05"/>
     <Fixed type="117" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0" tz="0"/>
-    <Fixed type="195" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0" tz="0"/>
+   <!-- <Fixed type="195" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0" tz="0"/> -->
     <Fixed type="117" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="0"/>
-    <Fixed type="195" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="0"/>
+    <!-- <Fixed type="195" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="0"/> -->
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.021947025,0,0,0,0.0088267176,0,0,0,0.020452431" centerOfMass="1.4E-05,-0.241701,-0.02739" mass="0.19" frictionType="0"/>
   <Bounding>
