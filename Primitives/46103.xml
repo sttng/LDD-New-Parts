@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation maingroupid="277"/>
+    <Annotation maingroupname="WINDSCREENS AND COCKPITS"/>
+    <Annotation designname="COCKPIT GLASS 6X4X2"/>
+    <Annotation aliases="46103"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.721206" sY="0.695" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.618794" ty="2.175" tz="-4.075"/>
+    <Box sX="0.125963" sY="0.734913" sZ="0.065" angle="17.78013" ax="0" ay="0" az="1" tx="0.910608" ty="2.17866" tz="-4.165"/>
+    <Box sX="0.320517" sY="0.367468" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.696834" ty="1.84747" tz="-4.165"/>
+    <Box sX="0.416357" sY="0.695" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.326357" ty="2.175" tz="-4.165"/>
+    <Box sX="0.865" sY="0.795" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.475" ty="2.075" tz="-4.075"/>
+    <Box sX="1.13119" sY="0.253371" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.741189" ty="1.53337" tz="-4.075"/>
+    <Box sX="0.497341" sY="0.045" sZ="0.065" angle="45.44588" ax="0" ay="-1" az="0" tx="1.4326" ty="2.935" tz="-3.72821"/>
+    <Box sX="0.450281" sY="0.045" sZ="0.107958" angle="45.44588" ax="0" ay="-1" az="0" tx="1.59485" ty="2.825" tz="-3.74255"/>
+    <Box sX="0.43722" sY="0.635438" sZ="0.061418" angle="53.84943" ax="0.193395" ay="-0.88448" az="0.424609" tx="1.95138" ty="2.15484" tz="-3.76679"/>
+    <Box sX="0.509013" sY="0.132695" sZ="0.061418" angle="45.2544" ax="0" ay="-1" az="0" tx="2.21249" ty="1.4127" tz="-3.74644"/>
+    <Box sX="1.42211" sY="0.132695" sZ="0.076207" angle="90" ax="0" ay="1" az="0" tx="2.5083" ty="1.29269" tz="-1.94721"/>
+    <Box sX="1.47843" sY="0.045279" sZ="0.10953" angle="90" ax="0" ay="1" az="0" tx="1.88219" ty="2.82403" tz="-1.95022"/>
+    <Box sX="1.47843" sY="0.045279" sZ="0.073776" angle="90" ax="0" ay="1" az="0" tx="1.76169" ty="2.93472" tz="-1.95022"/>
+    <Box sX="1.47843" sY="0.767942" sZ="0.12192" angle="92.68496" ax="-0.211538" ay="0.954203" az="0.211538" tx="2.20763" ty="2.11896" tz="-2.01164"/>
+    <Box sX="0.721206" sY="0.695" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.618794" ty="2.175" tz="0.172656"/>
+    <Box sX="0.125963" sY="0.734913" sZ="0.066172" angle="17.78013" ax="0" ay="0" az="1" tx="0.910608" ty="2.17866" tz="0.263828"/>
+    <Box sX="0.320517" sY="0.367468" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.696834" ty="1.84747" tz="0.262655"/>
+    <Box sX="0.416357" sY="0.695" sZ="0.066172" angle="0" ax="0" ay="1" az="0" tx="0.326357" ty="2.175" tz="0.263828"/>
+    <Box sX="0.865" sY="0.795" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.475" ty="2.075" tz="0.172656"/>
+    <Box sX="1.13119" sY="0.253371" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.741189" ty="1.53337" tz="0.172656"/>
+    <Box sX="0.497341" sY="0.045" sZ="0.065" angle="45.44588" ax="0" ay="1" az="0" tx="1.4326" ty="2.935" tz="-0.17413"/>
+    <Box sX="0.450281" sY="0.045" sZ="0.107958" angle="45.44588" ax="0" ay="1" az="0" tx="1.59485" ty="2.825" tz="-0.159791"/>
+    <Box sX="0.43722" sY="0.635438" sZ="0.061418" angle="53.84943" ax="-0.193395" ay="0.88448" az="0.424609" tx="1.95138" ty="2.15484" tz="-0.135553"/>
+    <Box sX="0.509013" sY="0.132695" sZ="0.061418" angle="45.2544" ax="0" ay="1" az="0" tx="2.21249" ty="1.4127" tz="-0.155907"/>
+    <Box sX="0.810486" sY="0.045" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.420486" ty="2.935" tz="-4.075"/>
+    <Box sX="0.810486" sY="0.045" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.420486" ty="2.935" tz="0.175"/>
+  </Collision>
+  <PhysicsAttributes inertiaTensor="7.3086,0,0,0,9.08737,0,0,0,3.81013" centerOfMass="1.12601,2.07,-1.95" mass="3.59999990463" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="1.15" minZ="-4.24" maxX="2.65202" maxY="2.99" maxZ="0.34"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="1.15" minZ="-4.24" maxX="2.65202" maxY="2.99" maxZ="0.34"/>
+  </GeometryBounding>
+</LEGOPrimitive>
