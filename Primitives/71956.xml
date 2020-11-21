@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation platformid="100"/>
+    <Annotation platformname="DUPLO"/>
+    <Annotation maingroupid="199"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation designname="DUPLO BRICKRUNNER, AXLE"/>
+    <Annotation aliases="71956"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.07851" sY="0.07851" sZ="1.4" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-1.41"/>
+  </Collision>
+  <PhysicsAttributes inertiaTensor="33.39542,0,0,0,33.39542,0,0,0,0.520833" centerOfMass="0,0,-1.41" mass="50" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.125" minY="-0.125" minZ="-2.82" maxX="0.125" maxY="0.125" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.125" minY="-0.125" minZ="-2.82" maxX="0.125" maxY="0.125" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>
