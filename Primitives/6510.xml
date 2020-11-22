@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6510;52639" />
+    <Annotation designname="DUPLO FLOWER" />
+    <Annotation maingroupid="128" />
+    <Annotation maingroupname="PLANTS" />
+    <Annotation platformid="100" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.456656" sY="0.501338" sZ="0.278999" angle="154.9293" ax="0.2223" ay="0.6894" az="-0.6894" tx="0.6337" ty="1.6016" tz="-0.8802" />
+    <Box sX="0.30919" sY="0.30919" sZ="0.278999" angle="125.4765" ax="0.5153" ay="0.606" az="-0.606" tx="0.9911" ty="1.6016" tz="-1.3688" />
+    <Box sX="0.456656" sY="0.501338" sZ="0.278999" angle="154.8346" ax="0.2232" ay="-0.6893" az="0.6893" tx="-0.6358" ty="1.6016" tz="-0.8787" />
+    <Box sX="0.30919" sY="0.30919" sZ="0.278999" angle="173.56" ax="0.0563" ay="0.706" az="-0.706" tx="-0.9869" ty="1.6016" tz="-1.3718" />
+    <Box sX="0.456656" sY="0.501338" sZ="0.278999" angle="110.2374" ax="0.6971" ay="-0.507" az="0.507" tx="-1.0318" ty="1.6016" tz="0.3343" />
+    <Box sX="0.30919" sY="0.30919" sZ="0.278999" angle="136.6679" ax="0.3973" ay="-0.6489" az="0.6489" tx="-1.6091" ty="1.6016" tz="0.5164" />
+    <Box sX="0.456656" sY="0.501338" sZ="0.278999" angle="90.0004" ax="1" ay="-0.0025" az="0.0025" tx="-0.0054" ty="1.6016" tz="1.0846" />
+    <Box sX="0.30919" sY="0.30919" sZ="0.278999" angle="98.5228" ax="0.8613" ay="-0.3593" az="0.3593" tx="-0.013" ty="1.6016" tz="1.6899" />
+    <Box sX="0.456656" sY="0.501338" sZ="0.278999" angle="110.3414" ax="0.6958" ay="0.5079" az="-0.5079" tx="1.033" ty="1.6016" tz="0.3306" />
+    <Box sX="0.30919" sY="0.30919" sZ="0.278999" angle="93.1823" ax="0.9459" ay="0.2293" az="-0.2293" tx="1.6081" ty="1.6016" tz="0.5195" />
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="0" tz="-0.8">
+      29:0,29:0,29:0,29:0,29:0,
+      29:0,29:0,29:0,29:0,29:0,
+      29:0,29:0,33:4:33,29:0,29:0,
+      29:0,29:0,29:0,29:0,29:0,
+      29:0,29:0,29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="1.92" tz="-0.8">
+      29:0,29:0,29:0,29:0,29:0,
+      29:0,29:0,29:0,29:0,29:0,
+      29:0,29:0,31:4:1,29:0,29:0,
+      29:0,29:0,29:0,29:0,29:0,
+      29:0,29:0,29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.7841438,0,0,0,2.761602,0,0,0,1.9215844" centerOfMass="-0.000141,1.18731,0.207824" mass="1" frictionType="0" />
+  <Bounding>
+    <AABB minX="-2.08546" minY="-0.002724" minZ="-1.77617" maxX="2.08518" maxY="2.37735" maxZ="2.19182" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.08546" minY="-0.002724" minZ="-1.77617" maxX="2.08518" maxY="2.37735" maxZ="2.19182" />
+  </GeometryBounding>
+</LEGOPrimitive>
