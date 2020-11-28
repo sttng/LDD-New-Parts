@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Derived from UnityLegoGame
+Editted for LDD by M2m
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="3011;3011;31459;72883" />
@@ -10,10 +14,10 @@
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Box sX="3.17003" sY="0.949897" sZ="1.56979" angle="0" ax="0" ay="1" az="0" tx="2.40097" ty="0.959897" tz="-0.800131"/>
+    <Box sX="3.17003" sY="0.949897" sZ="1.56979" angle="0" ax="1" ay="0" az="0" tx="2.001" ty="0.9599" tz="-1.2001" />
   </Collision>
   <Connectivity>
-    <Custom2DField type="23" width="16" height="8" angle="0" ax="0" ay="1" az="0" tx="-0.8" ty="1.92" tz="-2.4">
+    <Custom2DField type="23" width="16" height="8" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="1.92" tz="-2.8">
       35:1:1,29:0,23:4:1,29:0,35:2:1,29:0,23:4:1,29:0,35:2:1,29:0,23:4:1,29:0,35:2:1,29:0,23:4:1,29:0,35:1:1,
       29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,
       23:4:1,29:0,31:4:1,29:0,23:4:1,29:0,31:4:1,29:0,23:4:1,29:0,31:4:1,29:0,23:4:1,29:0,31:4:1,29:0,23:4:1,
@@ -24,7 +28,7 @@
       29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,
       35:1:1,29:0,23:4:1,29:0,35:2:1,29:0,23:4:1,29:0,35:2:1,29:0,23:4:1,29:0,35:2:1,29:0,23:4:1,29:0,35:1:1
     </Custom2DField>
-    <Custom2DField type="22" width="16" height="8" angle="0" ax="0" ay="1" az="0" tx="-0.8" ty="0" tz="-2.4">
+    <Custom2DField type="22" width="16" height="8" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-2.8">
       22:1:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:1:1,
       29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,
       22:2:1,29:0,32:4:1,29:0,23:4:1,29:0,32:4:1,29:0,23:4:1,29:0,32:4:1,29:0,23:4:1,29:0,32:4:1,29:0,22:2:1,
@@ -36,12 +40,12 @@
       22:1:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:1:1
     </Custom2DField>
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="16.434758,0,0,0,52.906667,0,0,0,48.178758" centerOfMass="2.4,1.19002,-0.8" mass="12.4" frictionType="0"/>
+  <PhysicsAttributes inertiaTensor="16.434758,0,0,0,52.906667,0,0,0,48.178758" centerOfMass="2.4,1.19002,-0.8" mass="12.4" frictionType="0" />
   <Bounding>
-    <AABB minX="-0.8" minY="0" minZ="-2.4" maxX="5.6" maxY="2.38004" maxZ="0.8"/>
+    <AABB minX="-1.179" minY="0" minZ="-2.7819" maxX="5.181" maxY="2.38" maxZ="0.3817" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-0.779036" minY="0" minZ="-2.37992" maxX="5.581" maxY="2.38004" maxZ="0.779668"/>
+    <AABB minX="-1.179" minY="0" minZ="-2.7819" maxX="5.181" maxY="2.38" maxZ="0.3817" />
   </GeometryBounding>
   <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
 </LEGOPrimitive>
