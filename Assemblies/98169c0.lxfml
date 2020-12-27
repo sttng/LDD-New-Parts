@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="98169C0"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="ANIMAL, TRICERATOPS HEAD"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="98169">
+      <Part refID="0" designID="98169" materials="21,0,0,0,0,0" decoration="0,0,0,0,0">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,2.8000001907348633,2.9210100173950195,2.8000001907348633">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="41141">
+      <Part refID="1" designID="41141" materials="21">
+        <Bone refID="1" transformation="0,1,0,0,0,1,0.99999982118606567,0,0,2.7998998165130615,2.9194099903106689,2.8022000789642334">
+        </Bone>
+      </Part>
+    </Brick>
+	</Bricks>
+</LXFML>
