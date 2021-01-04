@@ -56,5 +56,5 @@
   <GeometryBounding>
     <AABB minX="-7.11381" minY="-2.92101" minZ="-3.21981" maxX="-0.919247" maxY="4.42023" maxZ="3.21981" />
   </GeometryBounding>
-  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,2,3" />
 </LEGOPrimitive>
