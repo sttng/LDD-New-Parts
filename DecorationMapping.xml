@@ -2139,4 +2139,6 @@
 	<Mapping decorationID="95217" designID="93224" surfaceID="2"/>
 	<Mapping decorationID="55196" designID="95342" surfaceID="2"/>
 	<Mapping decorationID="601870" designID="35855" surfaceID="2"/>
+	
+	<Mapping decorationID="55071" designID="50746" surfaceID="1"/>
 </DecorationMapping>
