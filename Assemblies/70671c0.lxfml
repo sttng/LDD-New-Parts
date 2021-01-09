@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <LXFML versionMajor="5" versionMinor="0">
 	<Meta>
-		<Annotation aliases="38502"/>
+		<Annotation aliases="70671"/>
 		<Annotation platformid="200"/>
 		<Annotation platformname="SYSTEM"/>
 		<Annotation maingroupid="259"/>
 		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
-		<Annotation designname="ANIMAL, WOLF, LLOYD'S"/>
+		<Annotation designname="ANIMAL, LLOYD'S WOLF"/>
 	</Meta>
 	<Bricks>
 		<Brick refID="0" designID="70671">
