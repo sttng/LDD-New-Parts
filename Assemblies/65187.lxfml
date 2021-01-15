@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="65187"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="TRICERATOPS BODY"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="41140">
+      <Part refID="0" designID="41140" materials="21">
+        <Bone refID="0" transformation="0,0,0.99999988079071045,0.99999994039535522,0,0,0,0.99999982118606567,0,-1.7940013408660889,2.4999861717224121,6.4000015258789062">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="98073">
+      <Part refID="1" designID="98073" materials="21,0,0" decoration="0,0">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,1.2000000476837158,4.750584602355957,6.8000001907348633">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="41140">
+      <Part refID="2" designID="41140" materials="21">
+        <Bone refID="2" transformation="0.99999988079071045,0,0,0,0,-0.99999994039535522,0,1,0,0,1.8579847812652588,8.194000244140625">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="41140">
+      <Part refID="3" designID="41140" materials="21">
+        <Bone refID="3" transformation="-0.99999982118606567,0,0,0,0,0.99999988079071045,0,0.99999988079071045,0,0,1.8579847812652588,4.6059999465942383">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="41140">
+      <Part refID="4" designID="41140" materials="21">
+        <Bone refID="4" transformation="0.99999982118606567,0,0,0,0,-0.99999988079071045,0,1,0,3.9999997615814209,2.4979825019836426,8.194000244140625">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="5" designID="41140">
+      <Part refID="5" designID="41140" materials="21">
+        <Bone refID="5" transformation="0.99999970197677612,0,0,0,0,0.99999988079071045,0,-1,0,3.9999992847442627,2.4979825019836426,4.6059994697570801">
+        </Bone>
+      </Part>
+    </Brick>
+	</Bricks>
+</LXFML>
