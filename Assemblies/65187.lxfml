@@ -17,7 +17,7 @@
     </Brick>
     <Brick refID="1" designID="98073">
       <Part refID="1" designID="98073" materials="21,0,0" decoration="0,0">
-        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,1.2000000476837158,4.750584602355957,6.8000001907348633">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,1.2000000476837158,4.800584602355957,6.8000001907348633">
         </Bone>
       </Part>
     </Brick>
