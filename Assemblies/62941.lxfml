@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="62941"/>
+		<Annotation platformid="100"/>
+		<Annotation platformname="DUPLO"/>
+		<Annotation maingroupid="140"/>
+		<Annotation maingroupname="MINI FIGURE"/>
+		<Annotation designname="DUPLO FIGURE WITH SILKHAT"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="2162">
+      <Part refID="0" designID="2162" materials="21">
+        <Bone refID="0" transformation="0,0,-1,0,1,0,1,0,0,0.63666343688964844,3.8729362487792969,0.39939689636230469">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="47206">
+      <Part refID="1" designID="47206" materials="21,0" decoration="0">
+        <Bone refID="1" transformation="0,0,-1,0,1,0,1,0,0,0.63666343688964844,4.1333365440368652,0.39939689636230469">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="47392">
+      <Part refID="2" designID="47392" materials="21,26,26" decoration="0,0">
+        <Bone refID="2" transformation="0,0,-1,0,1,0,1,0,0,0.71135330200195313,2.2540562152862549,0.39939689636230469">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="47393">
+      <Part refID="3" designID="47393" materials="21">
+        <Bone refID="3" transformation="0,0,-1,0,1,0,1,0,0,0.71135330200195313,2.2540562152862549,0.39939689636230469">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="47207">
+      <Part refID="4" designID="47207" materials="21">
+        <Bone refID="4" transformation="0,0,-1,0,1,0,1,0,0,0.93267440795898438,0.78305613994598389,1.2013816833496094">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="5" designID="47394">
+      <Part refID="5" designID="47394" materials="21,26" decoration="0">
+        <Bone refID="5" transformation="0,0,-1,0,1,0,1,0,0,1.2000007629394531,0,1.2000007629394531">
+        </Bone>
+      </Part>
+    </Brick>
+	</Bricks>
+</LXFML>

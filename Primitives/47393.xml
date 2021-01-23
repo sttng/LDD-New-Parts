@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Last modification: 2021-01-23
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="47393" />
+    <Annotation designname="ADULT FIGURE HIP" />
+    <Annotation maingroupid="199" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="100" />
+    <Annotation platformname="DUPLO" />
+    <Annotation version="1" />
+  </Annotations>
+ <Collision>
+    <Box sX="0.757513" sY="0.649715" sZ="0.059372" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.113927" tz="-0.718551"/>
+    <Box sX="0.030599" sY="0.414537" sZ="0.151383" angle="90" ax="0" ay="1" az="0" tx="0.813326" ty="0.122596" tz="0.37982"/>
+    <Box sX="0.039324" sY="0.432483" sZ="0.104451" angle="8.08352" ax="0" ay="0" az="1" tx="0.996032" ty="0.096994" tz="0.27473"/>
+    <Box sX="0.039324" sY="0.163773" sZ="0.207404" angle="8.08352" ax="0" ay="0" az="1" tx="0.96438" ty="0.352475" tz="-0.000948"/>
+    <Box sX="0.039324" sY="0.378122" sZ="0.27258" angle="8.08352" ax="0" ay="0" az="1" tx="0.994661" ty="0.141674" tz="-0.452805"/>
+    <Box sX="0.099223" sY="0.074976" sZ="0.452251" angle="0" ax="0" ay="1" az="0" tx="1.01686" ty="-0.256843" tz="-0.207168"/>
+    <Box sX="0.055475" sY="0.166475" sZ="0.151383" angle="90" ax="0" ay="1" az="0" tx="0.813326" ty="-0.043103" tz="0.487223"/>
+    <Box sX="0.030599" sY="0.414537" sZ="0.151383" angle="180" ax="0.707107" ay="0" az="-0.707107" tx="-0.813326" ty="0.122596" tz="0.37982"/>
+    <Box sX="0.039324" sY="0.432483" sZ="0.104451" angle="171.91648" ax="0" ay="0" az="1" tx="-0.996032" ty="0.096994" tz="0.27473"/>
+    <Box sX="0.039324" sY="0.165881" sZ="0.196262" angle="171.91648" ax="0" ay="0" az="1" tx="-0.964677" ty="0.350388" tz="0.015121"/>
+    <Box sX="0.039324" sY="0.378122" sZ="0.27258" angle="171.91648" ax="0" ay="0" az="1" tx="-0.994661" ty="0.141674" tz="-0.452805"/>
+    <Box sX="0.099223" sY="0.074976" sZ="0.452251" angle="180" ax="0" ay="0" az="1" tx="-1.01686" ty="-0.256843" tz="-0.207168"/>
+    <Box sX="0.055475" sY="0.166475" sZ="0.151383" angle="180" ax="0.707107" ay="0" az="-0.707107" tx="-0.813326" ty="-0.043103" tz="0.487223"/>
+    <Box sX="1.01671" sY="0.489991" sZ="0.059372" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.103712" tz="-0.699511"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="2004" axes="2" angle="0" ax="0" ay="0" az="1" tx="0" ty="0.55" tz="0"/>
+    <Fixed type="2006" axes="2" angle="0" ax="0" ay="0" az="1" tx="-0.001985" ty="0" tz="0.000321"/>
+    <Hinge type="2002" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="-0.000605" ty="0" tz="-0.004159"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.3424231,0,0,0,0.61450574,0,0,0,0.63754704" centerOfMass="0,-0.100403,-0.108446" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Bounding>
+    <AABB minX="-1.16809" minY="-0.840806" minZ="-0.800596" maxX="1.16809" maxY="0.64" maxZ="0.583705"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.16809" minY="-0.840806" minZ="-0.800596" maxX="1.16809" maxY="0.64" maxZ="0.583705"/>
+  </GeometryBounding>
+</LEGOPrimitive>

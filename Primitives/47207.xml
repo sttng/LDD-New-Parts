@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Last modification: 2021-01-23
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="47207" />
+    <Annotation designname="PIN F0R FIGURE" />
+    <Annotation maingroupid="199" />
+    <Annotation maingroupname="LOOSE PARTS" />
+    <Annotation platformid="100" />
+    <Annotation platformname="DUPLO" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.07971" sY="0.072287" sZ="0.072976" angle="0" ax="0" ay="1" az="0" tx="0.798113" ty="1.471" tz="-0.221"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="2007" axes="2" angle="0" ax="0" ay="0" az="1" tx="0.8" ty="1.471" tz="-0.221"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.017621857,0,0,0,0.41281621,0,0,0,0.41281621" centerOfMass="0.799,1.471,-0.221" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Bounding>
+    <AABB minX="-0.301916" minY="1.30842" minZ="-0.383582" maxX="1.89992" maxY="1.63358" maxZ="-0.058418"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.301916" minY="1.30842" minZ="-0.383582" maxX="1.89992" maxY="1.63358" maxZ="-0.058418"/>
+  </GeometryBounding>
+</LEGOPrimitive>
