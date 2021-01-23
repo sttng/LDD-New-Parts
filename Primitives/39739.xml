@@ -26,9 +26,9 @@
   </Collision>
   <Connectivity>
     <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
-      22:1:1,22:2:1,22:1:1,
-      22:2:1,15:4:2,22:2:1,
-      22:1:1,22:2:1,22:1:1
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
     </Custom2DField>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.081809135,0,0,0,0.16055055,0,0,0,0.095808093" centerOfMass="-0.00057,0.16,0.06929" mass="1" frictionType="0" />
