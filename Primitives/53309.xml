@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+	Last modification: 2021-01-24
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="53309" />
+    <Annotation designname="Dinosaur Head Baryonyx " />
+    <Annotation maingroupid="259" />
+    <Annotation maingroupname="ANIMALS AND CREATURES" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.49" sY="0.511248" sZ="0.060138" angle="22.78014" ax="-0.434873" ay="-0.735098" az="-0.520111" tx="-2.68853" ty="2.41586" tz="0.782379"/>
+    <Box sX="0.336062" sY="0.475327" sZ="0.059268" angle="73.6817" ax="-0.275317" ay="-0.153922" az="0.948951" tx="-5.35959" ty="2.20848" tz="0.370333"/>
+    <Box sX="0.353711" sY="0.869347" sZ="0.059268" angle="102.47684" ax="-0.04874" ay="0.018323" az="0.998643" tx="-4.23794" ty="2.19098" tz="0.532136"/>
+    <Box sX="0.304026" sY="1.85093" sZ="0.411458" angle="97.63095" ax="0" ay="0" az="1" tx="-3.76634" ty="2.60718" tz="0"/>
+    <Box sX="0.817437" sY="1.19358" sZ="0.484211" angle="39.3619" ax="0" ay="0" az="1" tx="-1.12052" ty="1.62057" tz="0"/>
+    <Box sX="0.923469" sY="0.49" sZ="0.23275" angle="46.86059" ax="0" ay="0" az="-1" tx="-0.455066" ty="0.497554" tz="-0.466816"/>
+    <Box sX="0.923469" sY="0.49" sZ="0.23275" angle="46.86059" ax="0" ay="0" az="-1" tx="-0.455066" ty="0.497554" tz="0.466816"/>
+    <Box sX="0.336062" sY="0.475327" sZ="0.059268" angle="73.6817" ax="0.275317" ay="0.153922" az="0.948951" tx="-5.35959" ty="2.20848" tz="-0.370333"/>
+    <Box sX="0.353711" sY="0.869347" sZ="0.059268" angle="102.47684" ax="0.04874" ay="-0.018323" az="0.998643" tx="-4.23794" ty="2.19098" tz="-0.532136"/>
+    <Box sX="0.49" sY="0.511248" sZ="0.060138" angle="22.78014" ax="0.434873" ay="0.735098" az="-0.520111" tx="-2.68853" ty="2.41586" tz="-0.782379"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="102" oriented="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Hinge type="50" oriented="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-1.64498" ty="1.62985" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.7320331,0,0,0,4.1283478,0,0,0,4.9719468" centerOfMass="-2.63899,1.28005,0" mass="1" frictionType="0"/>
+  <Color faces="0"/>
+  <Decoration faces="VME_11209386_01_3DP_Paint_1"/>
+  <Bounding>
+    <AABB minX="-5.96351" minY="-0.68552" minZ="-1.15441" maxX="0.68552" maxY="3.24561" maxZ="1.15441"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-5.96351" minY="-0.68552" minZ="-1.15441" maxX="0.68552" maxY="3.24561" maxZ="1.15441"/>
+  </GeometryBounding>
+</LEGOPrimitive>
