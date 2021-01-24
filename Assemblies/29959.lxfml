@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+	<Meta>
+		<Annotation aliases="29959"/>
+		<Annotation platformid="200"/>
+		<Annotation platformname="SYSTEM"/>
+		<Annotation maingroupid="259"/>
+		<Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+		<Annotation designname="LEGO OLIVE GREEN CREATURE"/>
+	</Meta>
+	<Bricks>
+		<Brick refID="0" designID="28240">
+      <Part refID="0" designID="28240" materials="21">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-1.2000000476837158,0,1.2000000476837158">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="28235">
+      <Part refID="1" designID="28235" materials="21">
+        <Bone refID="1" transformation="0,0,-1,0,0.99999988079071045,0,1,0,0,0.80000996589660645,6.3280000686645508,0.80000007152557373">
+        </Bone>
+      </Part>
+    </Brick>
+	</Bricks>
+</LXFML>
