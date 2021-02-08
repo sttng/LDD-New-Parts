@@ -31,7 +31,6 @@
     </Custom2DField>
   </Connectivity>
   <PhysicsAttributes inertiaTensor="0.30597485,0,0,0,0.32892183,0,0,0,0.31794468" centerOfMass="0,-0.284672,-0.048242" mass="1" frictionType="0"/>
-  <Color faces="0"/>
   <Bounding>
     <AABB minX="-0.715079" minY="-0.949876" minZ="-0.737755" maxX="0.715079" maxY="0.380532" maxZ="0.641271"/>
   </Bounding>
