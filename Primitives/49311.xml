@@ -15,7 +15,7 @@ Edited for LDD by jester, colissions by Stephan , updated colissions m2m
     <Annotation version="1" />
   </Annotations>
   <Collision>
-    <Box sX="1.59542238712311" sY="1.42981" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="1.439" tz="0" />
+    <Box sX="1.59" sY="1.42981" sZ="0.39" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="1.439" tz="0" />
   </Collision>
   <Connectivity>
     <Custom2DField type="23" width="8" height="2" angle="0" ax="1" ay="0" az="0" tx="-2" ty="2.88" tz="-0.4">
